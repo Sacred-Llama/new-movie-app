@@ -82,7 +82,7 @@ const DetailsBanner = ({ video, crew }) => {
                         }}
                       >
                         {/* <PlayIcon /> */}
-                        <PlayIcon />
+                        {/* <PlayIcon /> */}
                                             <span
                                                 className="text"
                                                 onClick={handleWatchNowClick}
