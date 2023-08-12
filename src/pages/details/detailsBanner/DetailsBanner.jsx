@@ -37,7 +37,7 @@ const DetailsBanner = ({ video, crew }) => {
   };
   const handleWatchNowClick = () => {
     // Redirect to example.com when "Watch Now" is clicked
-    window.location.href = "http://example.com";
+    window.location.href = "https://recutt.com/TMhN3/22879904";
 };
 
   return (
