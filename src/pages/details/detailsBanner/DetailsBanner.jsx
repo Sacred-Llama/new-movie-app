@@ -37,7 +37,7 @@ const DetailsBanner = ({ video, crew }) => {
   };
   const handleWatchNowClick = () => {
     // Redirect to example.com when "Watch Now" is clicked
-    window.location.href = "https://recutt.com/TMhN3/22879904";
+    window.location.href = "https://cagesscan.com/mwk0886hw?key=effd9a9b1d612f89b6b6d4e6889916ff";
 };
 
   return (
